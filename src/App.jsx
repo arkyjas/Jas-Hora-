@@ -121,7 +121,7 @@ const Portfolio = () => {
                 <Disc className="text-white" size={32} />
               </div>
               <span className="text-purple-400 text-xs font-bold tracking-widest uppercase mb-2 block">New Release</span>
-              <h2 className="text-5xl font-syne font-bold mb-2">Shaam ki chai</h2>
+              <h2 className="text-5xl font-syne font-bold mb-2">Shaam Ki Chai</h2>
               <p className="text-gray-400">Listen on all platforms</p>
             </div>
           </a>
