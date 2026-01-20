@@ -104,7 +104,7 @@ const Portfolio = () => {
             className="md:col-span-2 md:row-span-2 bg-[#1a1a1a] rounded-3xl border border-white/10 overflow-hidden group relative flex flex-col justify-between p-8 hover:border-purple-500/50 transition-all duration-500"
           >
             <img 
-              src="../public/skc_cover.jpg" 
+              src="/../public/shaamkichaicover.jpg" 
               alt="Shaam Ki Chai Album Art"
               className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:scale-105 group-hover:opacity-40 transition-all duration-700"
             />
