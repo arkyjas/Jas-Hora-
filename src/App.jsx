@@ -74,7 +74,7 @@ const Portfolio = () => {
           {/* Skills Display */}
           <div className="flex flex-col gap-2">
             <h1 className="sr-only">Jas Hora - Music Portfolio</h1>
-            <div className="flex flex-col font-syne font-extrabold text-2xl sm:text-5xl md:text-7xl uppercase leading-tight tracking-tighter break-words">
+            <div className="flex flex-col font-syne font-extrabold text-xl sm:text-5xl md:text-7xl uppercase leading-tight tracking-tighter break-words">
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500 hover:to-white transition-all duration-500 cursor-default">
                 Music Producer
               </span>
