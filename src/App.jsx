@@ -74,14 +74,14 @@ const Portfolio = () => {
           {/* Skills Display */}
           <div className="flex flex-col gap-2">
             <h1 className="sr-only">Jas Hora - Music Portfolio</h1>
-            <div className="flex flex-col font-syne font-extrabold text-3xl sm:text-5xl md:text-7xl uppercase leading-tight tracking-tighter break-words">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500 hover:to-white transition-all duration-500 cursor-default">
+            <div className="flex flex-col font-syne font-extrabold text-2xl sm:text-5xl md:text-7xl uppercase leading-tight tracking-tighter break-words">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500 hover:to-white transition-all duration-500 cursor-default whitespace-nowrap">
                 Music Producer
               </span>
-              <span className="text-gray-600 hover:text-white transition-colors duration-500 cursor-default">
+              <span className="text-gray-600 hover:text-white transition-colors duration-500 cursor-default whitespace-nowrap whitespace-nowrap">
                 Singer Songwriter
               </span>
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-white hover:from-white hover:to-purple-400 transition-all duration-500 cursor-default">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-white hover:from-white hover:to-purple-400 transition-all duration-500 cursor-default whitespace-nowrap">
                 Multi-Instrumentalist
               </span>
               <div className="flex flex-wrap gap-x-4 gap-y-1 md:gap-6 text-xl md:text-4xl mt-4 text-gray-400 font-bold">
